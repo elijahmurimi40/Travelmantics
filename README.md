@@ -2,6 +2,8 @@
 
 # ALC-4.0-Phase-1
 
+Andela 4.0 Challenge 2.0 - Implementing Firebase libraries i.e Authentication and Database Storage. -BroadcastReceiver
+
 Minimum Android Version 5.0 (Lollipop)
 
 Tested on HTC Desire 10 Pro Android Version 6.0 (Marshmallow)
